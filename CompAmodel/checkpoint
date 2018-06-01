@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/runs/1510008839/checkpoints/model-96000"
+all_model_checkpoint_paths: "/home/ubuntu/runs/1510008839/checkpoints/model-96000"
