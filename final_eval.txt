@@ -1,0 +1,414 @@
+post: piece c++ code seems peculiar strange reason sorting data makes code almost six times faster pre class lang cpp prettyprint override #include lt algorithm gt #include lt ctime gt #include lt iostream gt int main generate data const unsigned arraysize 32768 int data arraysize unsigned c 0 c lt arraysize data c std rand 256 next loop runs faster std sort data data + arraysize test clock start clock long long sum 0 unsigned 0 lt 100000 ++i primary loop unsigned c 0 c lt arraysize data c gt 128 sum + data c double static cast lt double gt
+tags: java c++ performance optimization
+actual links: https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html https://gcc.gnu.org/
+guessed links: http://www.cplusplus.com/reference/vector/vector/ http://cplusplus.com/reference/clibrary/cstdio/printf/ https://docs.oracle.com/javase/7/docs/api/java/math/BigInteger.html http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html http://cplusplus.com/doc/tutorial/pointers/ https://docs.oracle.com/javase/7/docs/api/java/math/BigDecimal.html
+Incorrect guess
+
+post: want delete branch locally remote project fork href http en wikipedia org wiki github rel github h3 failed attempts delete remote branch h3 git branch remotes origin branch remotes origin bugfix found git branch origin branch origin bugfix found git branch rd origin remote branch origin bugfix git date git github com new branch bugfix gt origin date need differently successfully delete origin bugfix branch locally github
+tags: linux git command-line git-branch
+actual links: http://git-scm.com/book
+guessed links: http://www.git-scm.com/download/win http://git-scm.com/docs/git-svn https://git-scm.com/docs/git-rebase http://www.git-scm.com/book/en/Git-Tools-Submodules http://git-scm.com/docs/git-filter-branch https://git-scm.com/downloads
+Incorrect guess
+
+post: differences git pull git fetch
+tags: git git-pull
+actual links: http://git-scm.com/book
+guessed links: http://www.git-scm.com/download/win https://git-scm.com/downloads http://www.git-scm.com/book/en/Git-Tools-Submodules http://git-scm.com/docs/githooks https://git-scm.com/docs/git-submodule https://git-scm.com/docs/git-rebase
+Incorrect guess
+
+post: wrote wrong thing commit message alternatively forgotten include files change commit message files commit pushed yet
+tags: git git-commit
+actual links: http://git-scm.com/book
+guessed links: http://www.git-scm.com/book/en/Git-Tools-Submodules http://www.git-scm.com/download/win http://git-scm.com/docs/githooks https://git-scm.com/docs/git-submodule http://www.git-scm.com/docs/git-checkout https://git-scm.com/docs/gitignore
+Incorrect guess
+
+post: would explain javascript closures someone knowledge concepts consist example functions variables like understand closures seen href http en wikipedia org wiki scheme language 29 rel scheme example given wikipedia unfortunately help
+tags: javascript function variables scope closures
+actual links: http://jsfiddle.net/ https://developer.mozilla.org/en-US/ http://jsfiddle.net
+guessed links: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_objects/Function/bind https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Function/apply https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode http://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Function/call http://www.w3schools.com/js/js_scope.asp
+Incorrect guess
+
+post: use yield keyword python example trying understand code sup strong 1 strong sup def get child candidates self distance min dist max dist self distance max dist lt self median yield self self distance + max dist gt self median yield self caller result candidates list self candidates node candidates pop distance node get dist obj distance lt max dist distance gt min dist result extend node values candidates extend node get child candidates distance min dist max dist return resultwhat happens method get child candidates called list returned single element called subsequent calls stop hr sub 1 code comes
+tags: python iterator generator yield coroutine
+actual links: https://docs.python.org/2/tutorial/classes.html https://docs.python.org/2/library/stdtypes.html https://docs.python.org/2/library/functions.html
+guessed links: http://docs.python.org/library/collections.html#collections.defaultdict http://docs.python.org/2/library/collections.html#collections.OrderedDict http://docs.python.org/library/itertools.html http://docs.python.org/2/library/itertools.html#itertools.chain.from_iterable https://www.python.org/dev/peps/pep-0020/ http://docs.python.org/library/itertools.html#itertools.product
+Incorrect guess
+
+post: redirect user one page another using jquery pure javascript
+tags: javascript jquery redirect
+actual links: https://developer.mozilla.org/en-US/ https://jquery.com https://jquery.com/
+guessed links: http://docs.jquery.com/Plugins/validation http://docs.jquery.com/Ajax/load http://www.w3.org/TR/XMLHttpRequest/ http://api.jquery.com/category/plugins/templates/ http://api.jquery.com/load http://api.jquery.com/ready/
+Incorrect guess
+
+post: usually would expect string contains method seem one reasonable way check
+tags: javascript string substring contains string-matching
+actual links: http://underscorejs.org http://api.jquery.com http://underscorejs.org/ http://api.jquery.com/ http://api.jquery.com/contains-selector/ https://developer.mozilla.org/en-US/ http://jsfiddle.net/ http://jsfiddle.net
+guessed links: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/RegExp http://developer.mozilla.org/en-US/docs/JavaScript/Guide/Regular_Expressions http://www.w3schools.com/jsref/jsref_indexof.asp http://www.w3schools.com/jsref/jsref_split.asp http://www.w3schools.com/jsref/jsref_substring.asp https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+Incorrect guess
+
+post: recently ran javascript code crockford href http www jslint com rel jslint gave following error blockquote problem line 1 character 1 missing use strict statement blockquote searching realized people add use strict javascript code added statement error stopped appearing unfortunately google reveal much history behind string statement certainly must something javascript interpreted browser idea effect would use strict imply still relevant current browsers respond use strict string future use
+tags: javascript syntax jslint
+actual links: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode http://jsfiddle.net/ https://developer.mozilla.org/en-US/ http://developer.yahoo.com/yui/ http://jsfiddle.net
+guessed links: http://developer.mozilla.org/en-US/docs/JavaScript/Guide/Regular_Expressions https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/RegExp https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_objects/Function/bind https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Function/apply https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/match
+Incorrect guess
+
+post: possible toggle visibility element using functions hide show toggle would test element visible hidden
+tags: javascript jquery dom visibility
+actual links: https://api.jquery.com/hidden-selector/ http://jsfiddle.net/ http://docs.jquery.com/Selectors http://jsfiddle.net
+guessed links: http://docs.jquery.com/Plugins/validation http://api.jquery.com/find http://api.jquery.com/each/ http://docs.jquery.com/Events/live http://api.jquery.com/category/selectors/ http://api.jquery.com/category/effects/
+Incorrect guess
+
+post: recently started maintaining someone else javascript code fixing bugs adding features also trying tidy code make consistent previous developer uses two ways declaring functions work reason behind two ways var functionone function code function code reasons using two different methods pros cons anything done one method done
+tags: javascript function syntax idioms
+actual links: http://jsfiddle.net/ https://developer.mozilla.org/en-US/ http://jsfiddle.net
+guessed links: http://www.benalman.com/news/2010/11/immediately-invoked-function-expression/ https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_objects/Function/bind https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Function/apply http://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Function/call https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+Incorrect guess
+
+post: revert current state snapshot made certain commit git log get following output git author lt com gt date thu nov 4 18 59 41 2010 blah blah commit lt com gt date thu nov 4 05 13 39 2010 blah blah blah commit lt com gt date thu nov 4 00 55 06 2010 yet blah blah commit lt com gt date wed nov 3 23 56 08 2010 blah blah revert commit november 3 e commit
+tags: git
+actual links: https://git-scm.com/docs/git-reset
+guessed links: http://www.git-scm.com/download/win https://git-scm.com/docs/git-rebase https://www.git-scm.com/docs/git-log https://www.git-scm.com/docs/git-reflog http://git-scm.com/docs/git-filter-branch http://www.git-scm.com/docs/git-checkout
+Incorrect guess
+
+post: array integers using push method add elements simple way remove specific element array equivalent something like array remove int use em core em javascript em em frameworks allowed
+tags: javascript arrays
+actual links: http://underscorejs.org https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf http://underscorejs.org/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array https://developer.mozilla.org/en-US/ https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/splice http://jsfiddle.net/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice http://jsfiddle.net
+guessed links: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
+Correct guess
+
+post: use comments inside json file
+tags: json comments
+actual links: http://jsonlint.com http://jsonlint.com/ http://json.org http://www.json.org http://www.json.org/ http://www.jsonlint.com http://json.org/
+guessed links: http://www.w3.org/TR/xslt#attribute-value-templates http://www.w3.org/TR/XMLHttpRequest/ http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html http://www.w3.org/TR/xpath/ http://www.w3.org/QA/2002/04/valid-dtd-list.html https://www.w3.org/TR/html5/dom.html#the-id-attribute
+Incorrect guess
+
+post: example em note case em pre class lang cs prettyprint override string hello world string hello world guidelines use differences
+tags: c# .net string types
+actual links: https://msdn.microsoft.com/en-us/library/362314fe.aspx
+guessed links: http://msdn.microsoft.com/en-us/library/fk49wtc1.aspx http://msdn.microsoft.com/en-us/library/490f96s2.aspx http://msdn.microsoft.com/en-us/library/cscsdfbt.aspx http://msdn.microsoft.com/en-us/library/system.xml.serialization.ixmlserializable.aspx http://msdn.microsoft.com/en-us/library/ms173105.aspx https://msdn.microsoft.com/en-us/library/bb383977.aspx
+Incorrect guess
+
+post: difference following ul li px li li dip li li dp li li sp li ul
+tags: android android-layout user-interface
+actual links: http://developer.android.com/reference/android/util/DisplayMetrics.html http://developer.android.com
+guessed links: https://developer.android.com/training/implementing-navigation/nav-drawer.html https://developer.android.com/guide/topics/resources/drawable-resource.html http://developer.android.com/reference/android/view/ViewGroup.html http://developer.android.com/guide/topics/ui/themes.html https://developer.android.com/guide/practices/screens_support.html http://developer.android.com/reference/android/widget/ExpandableListView.html
+Incorrect guess
+
+post: h2 form based authentication websites h2 believe stack nbsp overflow resource specific technical questions also general guidelines solve variations common problems form based authentication websites fine topic experiment h3 include topics h3 ul li log li li remain logged li li managing cookies including recommended settings li li ssl https encryption li li store passwords li li using secret questions li li forgotten username password functionality li li use href https en wikipedia org wiki cryptographic nonce rel prevent href https en wikipedia org wiki cross site request forgery rel cross site request csrf li li href http openid net
+tags: security http authentication language-agnostic
+actual links: http://www.w3.org/
+guessed links: http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html http://w3.org/TR/html5/ http://www.w3.org/TR/access-control/ http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.35 http://www.w3.org/
+Correct guess
+
+post: suppose familiar developing client side applications href http jquery com rel jquery like start using href http angularjs org rel angularjs describe paradigm shift necessary questions might help frame answer ul li architect design client side web applications differently biggest difference li li stop using start using instead li li server side considerations restrictions li ul looking detailed comparison jquery angularjs
+tags: javascript jquery angularjs design
+actual links: https://docs.angularjs.org/api/ng/function/angular.element http://underscorejs.org http://requirejs.org http://docs.angularjs.org/api/ng http://jquery.com
+guessed links: https://docs.angularjs.org/api/ng/directive/ngDisabled http://docs.angularjs.org/guide/directive https://docs.angularjs.org/api/ng/directive/ngClass http://docs.angularjs.org/api/ng/directive/ngIf http://docs.angularjs.org/api/ng/directive/ngCloak https://docs.angularjs.org/api/ng/directive/ngClick
+Incorrect guess
+
+post: say create object follows var myobject method regex http best way remove property regex end new myobject follows var myobject method
+tags: javascript javascript-objects
+actual links: http://jsfiddle.net/ http://underscorejs.org https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce http://underscorejs.org/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array https://developer.mozilla.org/en-US/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete http://jsfiddle.net
+guessed links: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_objects/Function/bind https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/keys https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/assign https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array http://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Function/call
+Correct guess
+
+post: efficient way clone javascript object seen obj eval used href https developer mozilla org en us docs web javascript reference global objects rel non standard supported firefox br br done things like obj json parse json stringify question efficiency br br also seen recursive copying functions various flaws br surprised canonical solution exists
+tags: javascript object clone
+actual links: https://docs.angularjs.org/api/ng/function/angular.copy http://www.w3.org/ http://api.jquery.com http://api.jquery.com/ https://developer.mozilla.org/en-US/ https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/assign https://api.jquery.com/jQuery.extend/
+guessed links: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/keys https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Function/apply https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_objects/Function/bind http://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Function/call
+Incorrect guess
+
+post: according http 1 1 spec blockquote strong post strong method used request origin server accept entity enclosed request new subordinate resource identified request uri request line blockquote words post used strong create strong blockquote strong put strong method requests enclosed entity stored supplied request uri request uri refers already existing resource enclosed entity considered modified version one residing origin server request uri point existing resource uri capable defined new resource requesting user agent origin server create resource uri blockquote put used strong create update strong one used create resource one needs support
+tags: http rest post put
+actual links: http://www.w3.org/ http://www.asp.net/web-api http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
+guessed links: https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html http://www.w3.org/TR/access-control/ http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.35 http://www.w3.org/Protocols/rfc2616/rfc2616.html http://www.w3.org/TR/XMLHttpRequest/
+Correct guess
+
+post: anchors act like buttons example em questions em em tags em em users em etc top stack nbsp overflow page tabs css standard way disable highlighting effect user accidentally selects text realize could done javascript little googling yielded mozilla moz user select option standard compliant way accomplish css best practice approach
+tags: css cross-browser highlighting
+actual links: http://www.w3.org/ http://jsfiddle.net/ http://jsfiddle.net
+guessed links: http://w3.org/TR/css3-selectors/#selectors http://www.quirksmode.org/dom/inputfile.html http://www.quirksmode.org/css/contents.html https://www.w3.org/TR/css3-mediaqueries/ http://www.w3.org/TR/CSS21/box.html#collapsing-margins http://www.w3.org/TR/CSS2/selector.html#child-selectors
+Incorrect guess
+
+post: good way explain resolve merge conflicts git
+tags: git git-merge
+actual links: http://git-scm.com/book
+guessed links: http://www.git-scm.com/download/win http://www.git-scm.com/book/en/Git-Tools-Submodules https://git-scm.com/downloads https://git-scm.com/docs/git-rebase http://www.git-scm.com/docs/git-checkout https://git-scm.com/docs/git-submodule
+Incorrect guess
+
+post: check whether file exists without using href https docs python org 3 6 reference compound rel try statement
+tags: python file filesystems
+actual links: https://docs.python.org/2/glossary.html#term-eafp https://docs.python.org/library/os.path.html http://man7.org/linux/man-pages/man3/dlopen.3.html https://docs.python.org/2/library/os.html https://docs.python.org/2/library/os.path.html
+guessed links: http://docs.python.org/library/urllib.html https://docs.python.org/2/library/subprocess.html http://docs.python.org/2/library/subprocess.html#subprocess.check_output https://docs.python.org/3/library/functions.html#print http://docs.python.org/library/os.html https://docs.python.org/3/library/subprocess.html
+Incorrect guess
+
+post: something javascript similar import css allows include javascript file inside another javascript file
+tags: javascript file import include
+actual links: http://api.jquery.com http://jquery.com http://www.requirejs.org https://api.jquery.com/jquery.getscript/ http://api.jquery.com/ http://www.requirejs.org/ https://nodejs.org/api/modules.html https://developer.mozilla.org/en-US/ http://requirejs.org http://api.jquery.com/jQuery.getScript/ http://jquery.com/ http://requirejs.org/
+guessed links: https://nodejs.org/api/modules.html https://nodejs.org/api/fs.html http://nodejs.org/api/child_process.html#child_process_child_process_spawn_command_args_options http://www.w3schools.com/php/php_file_upload.asp http://www.w3schools.com/tags/tag_base.asp http://api.jquery.com/jQuery.getScript/
+Correct guess
+
+post: need check checked property checkbox perform action based checked property using jquery example age checkbox checked need show textbox enter age else hide textbox following code returns false default attr checked show else hide successfully query checked property
+tags: javascript jquery html dom checkbox
+actual links: http://api.jquery.com https://jsfiddle.net http://api.jquery.com/ https://jsfiddle.net/ http://api.jquery.com/attr http://api.jquery.com/prop/ http://jsfiddle.net/ http://jsfiddle.net
+guessed links: http://api.jquery.com/prop/ http://api.jquery.com/attr http://api.jquery.com/find http://api.jquery.com/each/ https://api.jquery.com/checked-selector/ http://api.jquery.com/category/plugins/templates/
+Correct guess
+
+post: function foo makes ajax request return response foo tried return value success callback well assigning response local variable inside function return one none ways actually return response function foo var result ajax url success function response result response return response lt tried one well return result var result foo always ends undefined
+tags: javascript ajax asynchronous ecmascript-6
+actual links: http://www.w3.org/ http://api.jquery.com https://docs.angularjs.org/api/ng/service/$q http://api.jquery.com/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started https://developer.mozilla.org/en-US/ http://jsfiddle.net/ http://www.w3.org/TR/XMLHttpRequest/ http://jsfiddle.net
+guessed links: https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_objects/Function/bind https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+Correct guess
+
+post: discard changes working copy index
+tags: git
+actual links: http://git-scm.com/docs/git-stash
+guessed links: http://www.git-scm.com/download/win https://git-scm.com/downloads https://git-scm.com/docs/git-reset https://git-scm.com/docs/git-rebase http://www.git-scm.com/docs/git-checkout https://www.git-scm.com/docs/git-reflog
+Incorrect guess
+
+post: h3 h3 collection questions come every syntax php also community wiki everyone invited participate maintaining list h3 h3 used hard find questions operators syntax tokens br main idea links existing questions stack overflow easier us reference copy content php manual note since january 2013 stack overflow href https meta stackexchange com questions new search engine stack exchange support special characters surround search terms quotes e g href https stackoverflow com search q 5d 20 22 22 20 22 22 php vs h3 h3 pointed someone asked question please find particular syntax linked pages href http php net manual en index
+tags: php operators symbols
+actual links: http://php.net/manual/en/language.operators.string.php http://php.net/manual/en/language.operators.comparison.php http://php.net/manual/en/language.operators.array.php http://php.net/manual/en/language.operators.arithmetic.php http://php.net/manual/en/language.operators.logical.php http://php.net/manual/en/function.usort.php http://www.php.net/ http://www.php.net/manual/en/language.constants.predefined.php
+guessed links: http://php.net/manual/en/language.operators.comparison.php http://php.net/str_replace http://www.php.net/substr https://php.net/manual/en/function.preg-match.php http://www.php.net/manual/en/language.types.string.php https://php.net/manual/en/function.explode.php
+Correct guess
+
+post: people talk strong url strong strong uri strong strong urn strong different things look naked eye distinguishable differences
+tags: http url uri
+actual links: http://www.w3.org/
+guessed links: https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html http://www.w3.org/Protocols/rfc2616/rfc2616.html http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.35 http://www.w3.org/TR/access-control/ http://www.w3.org/TR/XMLHttpRequest/
+Incorrect guess
+
+post: loop entries array using javascript thought something like foreach instance array seems incorrect
+tags: javascript arrays loops foreach iteration
+actual links: http://jsfiddle.net/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from http://api.jquery.com http://jquery.com http://api.jquery.com/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array https://developer.mozilla.org/en-US/ http://jquery.com/ http://jsfiddle.net http://api.jquery.com/jQuery.each/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator
+guessed links: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/keys https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/some
+Correct guess
+
+post: chrome supports href http www w3 org html drafts html master single page placeholder attribute rel title placeholder attribute placeholder attribute input type text elements others probably following css placeholder value div class snippet data lang js data hide false data console true data babel false div class snippet code pre class snippet code css lang css prettyprint override input placeholder placeholder placeholder color red important pre class snippet code html lang html prettyprint override lt input type text placeholder value gt
+tags: html css html5 placeholder
+actual links: http://www.w3.org/ https://developer.mozilla.org/en-US/
+guessed links: http://w3.org/TR/css3-selectors/#selectors http://www.w3.org/TR/css3-values/#viewport-relative-lengths https://www.w3.org/TR/css3-mediaqueries/ https://www.w3.org/TR/CSS21/syndata.html#value-def-identifier http://w3.org/TR/CSS21/cascade.html#specificity https://www.w3.org/TR/html401/interact/forms.html#h-17.13.4.2
+Incorrect guess
+
+post: like something like tick checkbox using strong jquery strong checked true selected true thing exist
+tags: javascript jquery checkbox selected checked
+actual links: http://api.jquery.com http://api.jquery.com/ https://api.jquery.com/prop https://developer.mozilla.org/en-US/ http://api.jquery.com/prop/ http://jsfiddle.net/ http://jsfiddle.net
+guessed links: http://api.jquery.com/prop/ https://api.jquery.com/checked-selector/ https://api.jquery.com/change/ http://docs.jquery.com/Plugins/validation http://api.jquery.com/each/ http://api.jquery.com/attr
+Correct guess
+
+post: like move last several commits committed master new branch take master back commits made unfortunately git fu strong enough yet help e go b c c e master b
+tags: git git-branch branching-and-merging
+actual links: https://git-scm.com/docs/git-merge https://git-scm.com/docs/git-rebase
+guessed links: http://www.git-scm.com/download/win https://git-scm.com/docs/git-rebase http://git-scm.com/book https://git-scm.com/downloads http://www.git-scm.com/docs/git-checkout https://git-scm.com/docs/git-reset
+Correct guess
+
+post: horizontally center lt div gt within another lt div gt using css even possible lt div id outer gt lt div id inner gt foo foo lt div gt lt div gt
+tags: html css alignment
+actual links: http://www.w3.org/ http://www.w3schools.com/css/ https://jsfiddle.net https://jsfiddle.net/ https://developer.mozilla.org/en-US/docs/Web/CSS/transform https://developer.mozilla.org/en-US/ http://jsfiddle.net/ http://www.w3.org/TR/css3-flexbox/ http://jsfiddle.net
+guessed links: http://css-tricks.com/snippets/css/sticky-footer/ http://www.w3.org/TR/CSS21/box.html#collapsing-margins http://css-tricks.com/fighting-the-space-between-inline-block-elements/ https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing http://caniuse.com/#search=flex https://developer.mozilla.org/en-US/docs/Web/CSS/float
+Incorrect guess
+
+post: idiom use programming java test object null use avoid href http docs oracle com javase 6 docs api index html java lang nullpointerexception html rel nullpointerexception find code ugly becomes unreadable good alternative want address necessity test every object want access field method object example someobject null someobject case avoid nullpointerexception know exactly object null tests appear throughout code consequence
+tags: java object nullpointerexception null
+actual links: http://docs.oracle.com/javase/tutorial/essential/exceptions/ http://docs.oracle.com/javase/8/docs/api/java/util/Optional.html http://commons.apache.org/
+guessed links: http://docs.oracle.com/javase/tutorial/reflect/ https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html http://docs.oracle.com/javase/7/docs/api/java/lang/Object.html#toString%28%29 http://docs.oracle.com/javase/specs/jls/se7/html/jls-15.html#jls-15.28 https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html http://oracle.com/technetwork/java/codeconvtoc-136057.html
+Incorrect guess
+
+post: know possible match word reverse matches using tools e g grep v however like know possible match lines em em contain specific word e g using regular expression input grep lt regex contain gt output
+tags: regex regex-negation regex-lookarounds
+actual links: http://jsfiddle.net/ http://perldoc.perl.org/perlre.html http://jsfiddle.net
+guessed links: http://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html http://msdn.microsoft.com/en-us/library/system.text.regularexpressions.regexoptions.aspx https://msdn.microsoft.com/en-us/library/az24scfc.aspx http://perldoc.perl.org/perlre.html http://perldoc.perl.org/perlretut.html http://msdn.microsoft.com/en-us/library/system.string.split.aspx
+Correct guess
+
+post: call external command typed unix shell windows command prompt within python script
+tags: python shell command subprocess external
+actual links: https://docs.python.org/library/subprocess.html https://docs.python.org/2/library/subprocess.html#popen-constructor https://docs.python.org/3/library/subprocess.html https://docs.python.org/2/library/os.html https://docs.python.org/2/library/subprocess.html
+guessed links: http://docs.python.org/2/library/subprocess.html#subprocess.check_output https://docs.python.org/2/library/subprocess.html https://docs.python.org/3/library/subprocess.html http://docs.python.org/2/library/os.html#os.system https://www.python.org/dev/peps/pep-0020/ http://docs.python.org/2/library/subprocess.html#frequently-used-arguments
+Correct guess
+
+post: get timestamp javascript something similar unix timestamp single number represents current time date either number string
+tags: javascript date datetime timestamp unix-timestamp
+actual links: http://underscorejs.org http://api.jquery.com http://underscorejs.org/ http://api.jquery.com/ https://developer.mozilla.org/en-US/ http://momentjs.com/docs/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
+guessed links: http://momentjs.com/docs/#/parsing/string-format/ https://momentjs.com/docs/#/displaying/format/ https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Date http://momentjs.com/docs/#/displaying/difference/ http://momentjs.com/docs/ http://www.w3schools.com/jsref/jsref_obj_date.asp
+Correct guess
+
+post: differences service provider factory angularjs
+tags: angularjs dependency-injection angularjs-service
+actual links: http://jsfiddle.net/ http://docs.angularjs.org/guide/providers http://jsfiddle.net
+guessed links: https://docs.angularjs.org/api/ng/directive/ngDisabled http://docs.angularjs.org/api/ng.%24http http://docs.angularjs.org/guide/services https://docs.angularjs.org/api/ng/service/$timeout http://docs.angularjs.org/api/ng.%24q https://docs.angularjs.org/guide/di
+Incorrect guess
+
+post: file tracked one time git file gitignore list however file keeps showing git status edited force git completely forget
+tags: git gitignore
+actual links: http://git-scm.com/docs/git-filter-branch
+guessed links: http://www.git-scm.com/book/en/Git-Tools-Submodules https://git-scm.com/docs/gitignore http://www.git-scm.com/download/win https://git-scm.com/docs/git-submodule http://git-scm.com/docs/githooks http://www.git-scm.com/docs/git-checkout
+Incorrect guess
+
+post: concise efficient way find javascript array contains object way know function contains obj var 0 lt length i++ obj return true return false better concise way accomplish closely related stack overflow question em href https stackoverflow com questions best way find item javascript array best way find item javascript array em addresses finding objects array using indexof
+tags: javascript arrays browser
+actual links: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/some https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map http://underscorejs.org https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Array/indexOf http://api.jquery.com http://underscorejs.org/ http://api.jquery.com/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array https://developer.mozilla.org/en-US/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find http://jsfiddle.net/ http://jsfiddle.net
+guessed links: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
+Correct guess
+
+post: strong 2 67 strong nbsp ghz processor strong 1 21 strong nbsp gb ram strong x86 strong windows strong xp strong professional machine understanding strong android emulator strong start fairly quickly machine followed instructions setting ide sdks jdks success starting emulator quickly rare possible fix problem even starts loads home screen sluggish tried href https en wikipedia org wiki eclipse 29 rel eclipse ide href https en wikipedia org wiki eclipse rel version 3 5 galileo href https en wikipedia org wiki eclipse rel 3 4 ganymede
+tags: android performance android-emulator qemu
+actual links: http://developer.android.com http://developer.android.com/sdk/eclipse-adt.html
+guessed links: https://developer.android.com/sdk/index.html http://developer.android.com/training/displaying-bitmaps/index.html http://developer.android.com/sdk/ndk/index.html https://developer.android.com/guide/practices/screens_support.html https://developer.android.com/training/displaying-bitmaps/load-bitmap.html http://developer.android.com/guide/appendix/media-formats.html
+Incorrect guess
+
+post: java io inputstream object process object produce string hr suppose inputstream contains text data want convert string example write contents stream log file easiest way take inputstream convert string public string inputstream
+tags: java string io stream inputstream
+actual links: http://commons.apache.org/ http://commons.apache.org/proper/commons-io/ http://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html
+guessed links: http://commons.apache.org/proper/commons-lang/ https://commons.apache.org/codec/ https://docs.oracle.com/javase/7/docs/api/java/io/PrintWriter.html https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html http://docs.oracle.com/javase/7/docs/api/java/lang/String.html http://docs.oracle.com/javase/8/docs/api/java/lang/String.html#split-java.lang.String-
+Incorrect guess
+
+post: looking new apis introduced href http en wikipedia org wiki android version 4 1 2 jelly bean rel android 4 2 looking href http developer android com reference android os usermanager html rel usermanager class came across following method public boolean blockquote used determine whether user making call subject returns whether user making call blockquote used
+tags: java android
+actual links: http://developer.android.com
+guessed links: http://developer.android.com/reference/android/app/Activity.html#startActivityForResult%28android.content.Intent,%20int%29 https://developer.android.com/sdk/index.html http://developer.android.com/reference/android/content/Context.html http://developer.android.com/sdk/win-usb.html http://developer.android.com/sdk/compatibility-library.html http://developer.android.com/training/permissions/requesting.html
+Incorrect guess
+
+post: trying create globally unique identifiers javascript sure routines available browsers random seeded built random number generator etc guid uuid least 32 characters stay ascii range avoid trouble passing around
+tags: javascript guid uuid
+actual links: https://jsfiddle.net http://jsfiddle.net/ https://jsfiddle.net/ http://jsfiddle.net
+guessed links: https://msdn.microsoft.com/en-us/library/ms142571.aspx http://msdn.microsoft.com/en-us/library/dwhawy9k.aspx http://msdn.microsoft.com/en-us/library/ms173105.aspx https://msdn.microsoft.com/en-us/library/364x0z75.aspx http://msdn.microsoft.com/en-us/library/office/ff839746.aspx http://msdn.microsoft.com/en-us/library/system.security.cryptography.rfc2898derivebytes.aspx
+Incorrect guess
+
+post: differences href http docs oracle com javase 8 docs api index html java util hashmap html rel hashmap href http docs oracle com javase 8 docs api index html java util hashtable html rel hashtable java efficient non threaded applications
+tags: java hashtable hashmap
+actual links: http://docs.oracle.com/javase/7/docs/api/java/util/concurrent/ConcurrentHashMap.html http://docs.oracle.com/javase/6/docs/api/java/util/HashMap.html http://docs.oracle.com/javase/7/docs/api/java/util/HashMap.html
+guessed links: http://docs.oracle.com/javase/7/docs/api/java/util/LinkedHashMap.html http://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html http://docs.oracle.com/javase/7/docs/api/java/util/HashMap.html https://docs.oracle.com/javase/6/docs/api/java/util/LinkedHashMap.html http://docs.oracle.com/javase/7/docs/api/java/util/LinkedHashSet.html http://docs.oracle.com/javase/7/docs/api/java/lang/Object.html#toString%28%29
+Correct guess
+
+post: remove git submodule way reason simply git submodule rm whatever
+tags: git git-submodules
+actual links: https://git-scm.com/docs/git-submodule
+guessed links: http://www.git-scm.com/book/en/Git-Tools-Submodules http://www.git-scm.com/download/win https://git-scm.com/docs/git-submodule https://git-scm.com/docs/gitignore https://git-scm.com/downloads http://www.git-scm.com/docs/git-checkout
+Correct guess
+
+post: user input inserted without modification sql query application becomes vulnerable href https stackoverflow com sql injection like following example pre class lang php prettyprint override unsafe variable post user input mysql query insert table column values unsafe variable user input something like value drop table table query becomes insert table column values value drop table table done prevent happening
+tags: php mysql sql security sql-injection
+actual links: http://php.net/manual/en/function.strip-tags.php http://www.php.net/manual/en/mysqli.prepare.php http://php.net/manual/en/security.database.sql-injection.php http://php.net/manual/en/pdo.quote.php http://php.net/manual/en/book.mysqli.php http://php.net/pdo http://www.php.net/manual/en/mysqli.real-escape-string.php http://www.php.net/
+guessed links: http://www.php.net/manual/en/function.mysql-real-escape-string.php http://www.php.net/manual/en/pdo.prepared-statements.php https://php.net/manual/en/function.mysql-query.php http://www.php.net/manual/en/mysqli.prepare.php https://php.net/manual/en/pdo.prepare.php http://php.net/manual/en/security.database.sql-injection.php
+Correct guess
+
+post: years slowly developed href http en wikipedia org wiki regular expression rel regular expression validates email addresses correctly assuming use ip address server part use several php programs works time however time time get contacted someone trouble site uses end make adjustment recently realized allowing 4 character tlds em best regular expression seen validating emails em seen several solutions use functions use several shorter expressions rather one long complex expression simple function instead several short expression complex function
+tags: regex email email-validation string-parsing
+actual links: http://www.w3.org/
+guessed links: http://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html https://msdn.microsoft.com/en-us/library/az24scfc.aspx http://gnu.org/software/emacs/ http://www.w3.org/TR/xpath/ http://www.gnu.org/software/make/manual/make.html https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+Incorrect guess
+
+post: email address validated javascript
+tags: javascript regex validation email email-validation
+actual links: http://www.w3.org/ http://jsfiddle.net/ http://jsfiddle.net
+guessed links: http://www.w3schools.com/jsref/jsref_obj_regexp.asp http://www.w3schools.com/jsref/jsref_indexof.asp http://w3schools.com/jsref/jsref_replace.asp https://msdn.microsoft.com/en-us/library/ms142571.aspx http://www.w3schools.com/jsref/jsref_split.asp http://developer.mozilla.org/en-US/docs/JavaScript/Guide/Regular_Expressions
+Incorrect guess
+
+post: edittext button layout writing edit field clicking button want hide virtual keyboard assume simple one two liner code make happen find example
+tags: android android-softkeyboard
+actual links: https://developer.android.com/reference/android/widget/TextView.html http://developer.android.com
+guessed links: https://developer.android.com/training/implementing-navigation/nav-drawer.html http://developer.android.com/guide/topics/ui/dialogs.html#CustomDialog http://developer.android.com/reference/android/widget/Button.html https://developer.android.com/guide/components/fragments.html http://developer.android.com/guide/topics/ui/custom-components.html https://developer.android.com/reference/android/widget/PopupWindow.html
+Incorrect guess
+
+post: string test abc test test abc test test test abc test test abc str replace abc seems remove first occurrence abc string replace strong strong occurrences
+tags: javascript replace
+actual links: http://jsfiddle.net/ https://developer.mozilla.org/en-US/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions http://jsfiddle.net
+guessed links: http://developer.mozilla.org/en-US/docs/JavaScript/Guide/Regular_Expressions https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/RegExp http://www.w3schools.com/jsref/jsref_obj_regexp.asp http://www.w3schools.com/jsref/jsref_split.asp http://www.w3schools.com/jsref/jsref_indexof.asp https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/match
+Incorrect guess
+
+post: sql server possible em insert em table using select statement insert table col1 col2 col3 select col1 col2 col3 table sql cool also possible em update em via select temporary table containing values would like update another table using values perhaps something like update table set col1 col1 col2 table sql cool table id table id
+tags: sql sql-server tsql select
+actual links: http://technet.microsoft.com/en-us/library/bb510625.aspx
+guessed links: http://msdn.microsoft.com/en-us/library/bb510625.aspx https://msdn.microsoft.com/en-us/library/ms189798.aspx https://msdn.microsoft.com/en-us/library/ms180026.aspx http://technet.microsoft.com/en-us/library/bb510625.aspx https://msdn.microsoft.com/en-us/library/ms177410.aspx http://msdn.microsoft.com/en-us/library/ms177410%28v=sql.105%29.aspx
+Correct guess
+
+post: html table cellspacing set like pre class lang html prettyprint override lt table cellspacing 1 1 gt accomplished using css
+tags: html css alignment html-table stylesheet
+actual links: https://jsfiddle.net http://www.quirksmode.org/ http://jsfiddle.net/ https://jsfiddle.net/ http://jsfiddle.net
+guessed links: http://www.w3.org/TR/CSS21/box.html#collapsing-margins https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing http://w3.org/TR/css3-selectors/#selectors https://developer.mozilla.org/en-US/docs/Web/CSS/float https://css-tricks.com/specifics-on-css-specificity/ http://www.w3.org/TR/css3-values/#viewport-relative-lengths
+Incorrect guess
+
+post: within master branch git merge branch locally never pushed changes origin master mean merge like undo git status merge getting message # branch branch ahead origin master 4 commits based upon href http www com intermediate 2009 03 16 rolling back changes revert html rel instructions found tried revert head 1but getting message git status # branch branch ahead origin master 5 commits want branch ahead number commits get back point
+tags: git undo git-merge
+actual links: http://git-scm.com/book
+guessed links: http://www.git-scm.com/docs/git-checkout https://git-scm.com/docs/git-rebase http://www.git-scm.com/book/en/Git-Tools-Submodules http://www.git-scm.com/download/win https://git-scm.com/docs/git-submodule https://git-scm.com/docs/git-reset
+Incorrect guess
+
+post: plugin less way retrieving href http en wikipedia org wiki query string rel nofollow query string values via jquery without plugin
+tags: javascript url plugins query-string
+actual links: https://developer.mozilla.org/en-US/ http://benalman.com/projects/jquery-bbq-plugin/ https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+guessed links: http://docs.jquery.com/Ajax/jQuery.ajax#options http://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/encodeURIComponent http://docs.jquery.com/Plugins/validation http://www.w3.org/TR/access-control/ http://www.w3.org/TR/XMLHttpRequest/ http://docs.jquery.com/Ajax/load
+Incorrect guess
+
+post: two python dictionaries want write single expression returns two dictionaries merged update method would need returned result instead modifying dict place gt gt gt x 1 b 2 gt gt gt b 10 c 11 gt gt gt z x update gt gt gt print z none gt gt gt x 1 b 10 c 11 get final merged dict z x extra clear last one wins conflict handling dict update looking well
+tags: python python-3.x dictionary mapping idioms
+actual links: https://docs.python.org/2/tutorial/datastructures.html#dictionaries https://docs.python.org/2/library/timeit.html
+guessed links: http://docs.python.org/library/collections.html#collections.defaultdict https://www.python.org/dev/peps/pep-0020/ http://docs.python.org/2/library/collections.html#collections.OrderedDict http://www.python.org/dev/peps/pep-0274/ https://docs.python.org/2/library/stdtypes.html#str.split http://docs.python.org/tutorial/datastructures.html#dictionaries
+Incorrect guess
+
+post: array initialized like element array new element 1 new element 2 new element 3 would like convert array object arraylist class arraylist lt element gt arraylist
+tags: java arrays arraylist type-conversion
+actual links: http://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html
+guessed links: http://docs.oracle.com/javase/6/docs/api/java/util/ArrayList.html http://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html https://docs.oracle.com/javase/7/docs/api/java/util/Set.html https://docs.oracle.com/javase/8/docs/api/java/util/List.html https://docs.oracle.com/javase/6/docs/api/java/util/LinkedHashMap.html https://docs.oracle.com/javase/7/docs/api/java/util/List.html
+Incorrect guess
+
+post: trying generate random intvalue java specific range strong example strong range strong 5 strong strong 10 strong meaning strong 5 strong smallest possible value strong 10 strong biggest number numbers possible value java method random math class returns double value strong 0 0 strong strong 1 0 strong class random method nextint int n returns random int value range strong 0 strong inclusive strong n strong exclusive find method returns random integer value two numbers tried following things still problems minimum maximum smallest biggest numbers strong solution 1 strong minimum + int math random maximum em problem em bigger maximum
+tags: java random integer
+actual links: http://commons.apache.org/
+guessed links: https://docs.oracle.com/javase/7/docs/api/java/math/BigInteger.html http://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html https://docs.oracle.com/javase/7/docs/api/java/math/BigDecimal.html http://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.12.5 https://docs.oracle.com/javase/7/docs/api/java/util/Random.html
+Incorrect guess
+
+post: ecmascript 6 introduced href https developer mozilla org en us docs web javascript reference statements let rel let statement heard described local variable still quite sure behaves differently var keyword differences let used var
+tags: javascript scope ecmascript-6 var
+actual links: http://jsfiddle.net/ https://developer.mozilla.org/en-US/ http://jsfiddle.net https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+guessed links: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_objects/Function/bind https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Function/apply https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode http://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Function/call https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create
+Incorrect guess
+
+post: make first letter string uppercase change case letters example ul li test test li li eiffel tower eiffel tower li li index html index html li ul
+tags: javascript string
+actual links: http://underscorejs.org http://underscorejs.org/ https://developer.mozilla.org/en-US/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions http://jsfiddle.net http://jsfiddle.net/
+guessed links: http://www.w3schools.com/jsref/jsref_split.asp http://www.w3schools.com/jsref/jsref_indexof.asp https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll http://www.w3schools.com/jsref/jsref_substring.asp https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf http://developer.mozilla.org/en-US/docs/JavaScript/Guide/Regular_Expressions
+Incorrect guess
+
+post: append object string number array javascript
+tags: javascript arrays append
+actual links: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Spread_operator https://developer.mozilla.org/en-US/ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator
+guessed links: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf http://www.w3schools.com/jsref/jsref_split.asp https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/join http://www.w3schools.com/jsref/jsref_indexof.asp
+Correct guess
+
+post: difference using call apply invoke function var func function alert hello func apply call performance differences two methods best use call apply vice versa
+tags: javascript performance function dynamic
+actual links: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Spread_operator https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Function/call https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call https://developer.mozilla.org/en-US/ https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Function/apply https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function
+guessed links: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_objects/Function/bind https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Function/apply http://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Function/call https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode http://api.jquery.com/jQuery.proxy/
+Correct guess
+
+post: dictionary values read two fields database string field numeric field string field unique key dictionary sort keys sort based values note read stack overflow question em href https stackoverflow com questions sort list dictionaries values dictionary python em probably could change code list dictionaries since really need list dictionaries wanted know simpler solution
+tags: python sorting dictionary
+actual links: http://pypi.python.org/pypi http://docs.python.org/2/library/collections.html#collections.Counter https://docs.python.org/2/library/stdtypes.html https://docs.python.org/2/library/functions.html
+guessed links: http://docs.python.org/2/library/functions.html#sorted http://docs.python.org/library/collections.html#collections.defaultdict http://docs.python.org/2/library/collections.html#collections.OrderedDict https://docs.python.org/library/functions.html#zip http://docs.python.org/tutorial/datastructures.html#dictionaries https://docs.python.org/2/tutorial/datastructures.html#dictionaries
+Incorrect guess
+
+post: want prevent event handlers executing certain event fired use one two techniques use jquery examples applies plain js well h3 1 event preventdefault h3 click function e custom handling e preventdefault h3 2 return false h3 click function custom handling return false significant difference two methods stopping event propagation return false simpler shorter probably less error prone executing method method remember correct casing parenthesis etc also define first parameter callback able call method perhaps reasons avoid like use preventdefault instead better way
+tags: javascript jquery javascript-events event-handling
+actual links: http://www.w3.org/ http://api.jquery.com/ https://developer.mozilla.org/en-US/ http://api.jquery.com
+guessed links: http://api.jquery.com/trigger/ https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener http://api.jquery.com/on/#direct-and-delegated-events http://api.jquery.com/live http://api.jquery.com/event.stoppropagation/ https://api.jquery.com/one/
+Incorrect guess
+
+post: elegant way check directory file going written exists create directory using python tried import path directory filename txt directory os path dirname file path try os stat directory except os mkdir directory f file filename somehow missed os path exists thanks douglas def ensure dir file path directory os path dirname file path os path exists directory os directory flag open makes happen automatically
+tags: python exception directory
+actual links: https://docs.python.org/2/library/os.html https://docs.python.org/2/library/os.path.html
+guessed links: http://docs.python.org/library/os.html http://docs.python.org/2/library/glob.html https://docs.python.org/library/glob.html https://docs.python.org/2/tutorial/modules.html http://docs.python.org/tutorial/modules.html https://docs.python.org/2/library/os.html
+Correct guess
+
+post: would like upload file asynchronously jquery html lt span gt file lt span gt lt input type file id file name file size 10 gt lt input id type button value upload gt jquery code document ready function click function var filename val ajax type post url enctype multipart form data data file filename success function alert data uploaded instead file uploaded getting filename fix problem h3 current solution h3 using href http com jquery form samples rel jquery form plugin upload files
+tags: javascript jquery ajax asynchronous upload
+actual links: https://developer.mozilla.org/en-US/docs/Web/API/FileReader https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest https://developer.mozilla.org/en-US/ http://jquery.malsup.com/form/ http://jsfiddle.net http://jsfiddle.net/
+guessed links: https://api.jquery.com/jQuery.ajax/#jqXHR https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest http://jquery.malsup.com/form/ http://api.jquery.com/load https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
+Correct guess
+
+post: consider contains echo true suppose code correct way write statement contains
+tags: php string
+actual links: http://php.net/manual/en/function.strstr.php http://php.net/manual/en/function.strpos.php http://www.php.net/
+guessed links: http://www.php.net/substr http://www.php.net/manual/en/language.oop5.typehinting.php https://php.net/manual/en/function.explode.php http://php.net/manual/en/language.operators.logical.php http://php.net/manual/en/language.operators.string.php http://php.net/str_replace
+Incorrect guess
+
